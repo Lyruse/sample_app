@@ -17,3 +17,4 @@
 *~
 *.swp
 /pg
+/guard-rspec
